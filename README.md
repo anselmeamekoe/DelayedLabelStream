@@ -10,7 +10,9 @@
 
 ## Usage
 ### Prerequisites
-Create a new python environment, install the [requirements](https://github.com/anselmeamekoe/DelayedLabelStream/blob/main/requirements.txt)
+Create a new python environment, install the [requirements](https://github.com/anselmeamekoe/DelayedLabelStream/blob/main/requirements.txt):
+``` pip install -r requirements.txt``` 
+
 ### Replicating results of the Generated benchmark
 1. Clone this repository of your machine
 2.  Run the [Notebook](https://github.com/anselmeamekoe/DelayedLabelStream/blob/main/Analysis/notebook_Generated_benchmark.ipynb) for reproducing results
