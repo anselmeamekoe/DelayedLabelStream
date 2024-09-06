@@ -31,4 +31,7 @@ NB: To use the notebook, you will need to install it in the python environment y
 - n_windows: average number of instances (following a Poisson distribution) in each evaluation batch (10000 for this example)
   
 ### Run your own experiments of the Fraud dataset  
+For reasons of confidentiality, the fraud dataset is not accessible to the public. 
 
+## Acknowledgments
+This work has been done in collaboration between BPCE Group, Laboratoire d'Informatique de Paris Nord (LIPN UMR 7030), DAVID Lab UVSQ-Université Paris Saclay and was supported by the program Convention Industrielle de Formation par la Recherche (CIFRE) of the Association Nationale de la Recherche et de la Technologie (ANRT).
